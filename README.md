@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/musdev)
 [![Telegram](https://img.shields.io/badge/Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomorrowqq)
 
-# 📔Repositories
+# 📔Useful Repositories
 
 ## Rain🌧️
 **a simple music player in terminal**
