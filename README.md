@@ -17,6 +17,8 @@ RML
 
 <img src="https://github.com/musdev13/rml/raw/main/docs/assets/screenshot.jpg" width="512" />
 
+---
+
 ## Rain🌧️
 **a simple music player in terminal**
 
