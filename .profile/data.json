@@ -1,0 +1,404 @@
+{
+ "key": "8764e544",
+ "stars": 0,
+ "contributions": 690,
+ "repos": 26,
+ "followers": 4,
+ "languages": [
+  [
+   "TypeScript",
+   1196014
+  ],
+  [
+   "Rust",
+   616256
+  ],
+  [
+   "CSS",
+   66586
+  ],
+  [
+   "JavaScript",
+   65048
+  ],
+  [
+   "Python",
+   62894
+  ],
+  [
+   "QML",
+   60060
+  ],
+  [
+   "C#",
+   58003
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 12,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 46,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 22,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 8,
+  "longest": 18
+ },
+ "pins": [
+  {
+   "name": "rml",
+   "url": "https://github.com/musdev13/rml",
+   "text": "Rust Minecraft Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "rmlib",
+   "url": "https://github.com/musdev13/rmlib",
+   "text": "rml library",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "musutils",
+   "url": "https://github.com/musdev13/musutils",
+   "text": "my rust utils for my rust projects",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "LegacyTUI",
+   "url": "https://github.com/musdev13/LegacyTUI",
+   "text": "Use Legacy Launcher (TL Legacy) in terminal",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "mshelld",
+   "url": "https://github.com/musdev13/mshelld",
+   "text": "mshell daemon",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "python-hws",
+   "url": "https://github.com/musdev13/python-hws",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "travel-wishlist",
+   "url": "https://github.com/musdev13/travel-wishlist",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "driftwm-dots",
+   "url": "https://github.com/musdev13/driftwm-dots",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "brlpkgs",
+   "url": "https://github.com/musdev13/brlpkgs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ocrjp2en",
+   "url": "https://github.com/musdev13/ocrjp2en",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "modernchat-hw",
+   "url": "https://github.com/musdev13/modernchat-hw",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "testmclicense",
+   "url": "https://github.com/musdev13/testmclicense",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "screenpadctl",
+   "url": "https://github.com/musdev13/screenpadctl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "radionet",
+   "url": "https://github.com/musdev13/radionet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kclick",
+   "url": "https://github.com/musdev13/kclick",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "reactnative-hws",
+   "url": "https://github.com/musdev13/reactnative-hws",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "testautorelease",
+   "url": "https://github.com/musdev13/testautorelease",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "tgplaying",
+   "url": "https://github.com/musdev13/tgplaying",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "service-requests",
+   "url": "https://github.com/musdev13/service-requests",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "rmlib",
+   "url": "https://github.com/musdev13/rmlib",
+   "text": "rml library",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "rml",
+   "url": "https://github.com/musdev13/rml",
+   "text": "Rust Minecraft Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "musutils",
+   "url": "https://github.com/musdev13/musutils",
+   "text": "my rust utils for my rust projects",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "CineTrivia",
+   "url": "https://github.com/musdev13/CineTrivia",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "TMDBService",
+   "url": "https://github.com/musdev13/TMDBService",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "fake_store",
+   "url": "https://github.com/musdev13/fake_store",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "react-hws",
+   "url": "https://github.com/musdev13/react-hws",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "musdev13",
+   "url": "https://github.com/musdev13/musdev13",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "LegacyTUI",
+   "url": "https://github.com/musdev13/LegacyTUI",
+   "text": "Use Legacy Launcher (TL Legacy) in terminal",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "zatishok",
+   "url": "https://github.com/musdev13/zatishok",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "hw121424",
+   "url": "https://github.com/musdev13/hw121424",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
