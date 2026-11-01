@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "login": "musdev13",
+  "seed": "#7DA6B6",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "buttons",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "wave",
+    "streak",
+    "stats"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "meow, I'm",
+    "name": "Musek",
+    "subtitle": "I build some useful utilities and other stuff btw",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Vinnytsia, Ukraine"
+      },
+      {
+        "icon": "brand:rust",
+        "label": "Rust"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python"
+      },
+      {
+        "icon": "brand:dotnet",
+        "label": "dotnet"
+      }
+    ]
+  },
+  "about": {
+    "title": "meowbout me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Full-stack developer, DevOps"
+      },
+      {
+        "icon": "code",
+        "label": "meowostly back-end "
+      },
+      {
+        "icon": "school",
+        "label": "schoolboy"
+      },
+      {
+        "icon": "favorite",
+        "label": "femboy"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack meow",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "doteNet"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "AUR"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "rml",
+      "rmlib",
+      "musutils",
+      "LegacyTUI"
+    ],
+    "overrides": {
+      "rml": {
+        "shape": "gem",
+        "text": "",
+        "icon": "deployed_code"
+      },
+      "rmlib": {
+        "shape": "cookie"
+      },
+      "musutils": {
+        "shape": "flower"
+      },
+      "LegacyTUI": {
+        "shape": "gem"
+      }
+    },
+    "empty": "description undefined btw meow",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/tomorrowqq"
+      },
+      {
+        "icon": "brand:gravatar",
+        "url": "https://gravatar.com/cuteemus"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "label": "🏳️‍⚧️ Femboys in Murino 🐧",
+        "url": "https://t.me/cuteemus",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All meowpositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
