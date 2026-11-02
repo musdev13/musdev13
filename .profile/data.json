@@ -1,7 +1,7 @@
 {
- "key": "29ad6aba",
+ "key": "d7b050f5",
  "stars": 0,
- "contributions": 699,
+ "contributions": 691,
  "repos": 26,
  "followers": 4,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Rust",
-   748323
+   750526
   ],
   [
    "CSS",
@@ -111,11 +111,15 @@
   ],
   [
    {
-    "c": 10,
+    "c": 17,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
