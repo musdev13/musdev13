@@ -1,5 +1,5 @@
 {
- "key": "ed539312",
+ "key": "4874fe6b",
  "stars": 0,
  "contributions": 702,
  "repos": 27,
@@ -15,7 +15,7 @@
   ],
   [
    "Python",
-   91310
+   94846
   ],
   [
    "CSS",
@@ -23,11 +23,11 @@
   ],
   [
    "HTML",
-   67205
+   67530
   ],
   [
    "JavaScript",
-   66610
+   66434
   ],
   [
    "QML",
@@ -192,7 +192,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "HTML",
+   "language": "Python",
    "topics": []
   },
   {
