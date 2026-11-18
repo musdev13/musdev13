@@ -1,5 +1,5 @@
 {
- "key": "ccd06d22",
+ "key": "24a254a3",
  "stars": 0,
  "contributions": 717,
  "repos": 27,
@@ -123,9 +123,13 @@
    {
     "c": 9,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
