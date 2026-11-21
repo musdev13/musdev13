@@ -1,8 +1,8 @@
 {
- "key": "255c520",
+ "key": "9172f9ca",
  "stars": 0,
- "contributions": 727,
- "repos": 28,
+ "contributions": 729,
+ "repos": 29,
  "followers": 4,
  "languages": [
   [
@@ -141,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 6,
+  "current": 7,
   "longest": 18
  },
  "pins": [
@@ -190,6 +190,15 @@
   }
  ],
  "all": [
+  {
+   "name": "MusLyrics",
+   "url": "https://github.com/musdev13/MusLyrics",
+   "text": "word-by-word lyrics repo",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
   {
    "name": "monya",
    "url": "https://github.com/musdev13/monya",
